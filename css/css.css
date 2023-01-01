@@ -26,7 +26,7 @@
     position: relative;
     background-position: center left;
     background-size: cover;
-    background-image: url("images/hero-mobile.jpg");
+    background-image: url("/..images/hero-mobile.jpg");
     height: 20rem;
     width: 105%;
     left: -2.5%;
