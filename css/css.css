@@ -145,7 +145,7 @@ input::placeholder{
     .body-background {
     background-color: #FFF7F7;
     overflow-x: hidden;
-    background-image: url("/images/bg-pattern-desktop.svg");
+    background-image: url("../images/bg-pattern-desktop.svg");
     background-position: center left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -164,7 +164,7 @@ input::placeholder{
     position: absolute;
     background-position: center left;
     background-size: cover;
-    background-image: url("/images/hero-desktop.jpg");
+    background-image: url("../images/hero-desktop.jpg");
     height: 100%;
     width: 40%;
     right: 0%;
